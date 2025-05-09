@@ -11,6 +11,16 @@ Was wäre ein geeignetes Projekt für diese LP9?
 Ich arbeite an einem Kurs über Angular.
 
 # 25.03.
+- [X] Angular Kurs
+- [X] Angular Kurs 
+- [X] Angular Kurs
+
+# 09.05
+- [X] Termin vereibarung für Schnuppertag
+- [X] Angular Kurs
+- [X] Sprechung mit LP
+
+# 16.05
 - [ ] Angular Kurs
-- [ ] Angular Kurs 
-- [ ] Angular Kurs
+- [ ] C# für Anfänger
+- [ ] Aufgabe lösen für Interview 
